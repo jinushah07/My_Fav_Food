@@ -1,0 +1,48 @@
+#top {
+    background-color: blanchedalmond;
+    padding: 35px;
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+    
+.food {
+padding: 20px;
+cursor: pointer;
+}
+
+.food:hover 
+ { background-color: brown;
+ }
+
+body {
+    margin: 0;
+    background-color: rgb(236, 200, 159);
+}
+
+
+
+#heading {
+    padding-left: 20px ;
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.food-item {
+    font-size: 20px;
+    padding: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.food-image {
+    width: 400px;
+    height: 400px;
+}
+
+.align-food {
+    text-align: center;
+}
+
+html {
+    scroll-behavior: smooth;
+}
